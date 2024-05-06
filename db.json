@@ -1,92 +1,55 @@
-{
-  "html": [
+[
     {
-      "id": 1,
-      "title": "O que é HTML",
-      "description": "HTML é uma abreviação de Hyper Text Markup Language (linguagem de marcação em hipertexto). Ou seja, não se trata de uma linguagem de programação, pois não tem lógica (algoritmos, processos etc). Ele cria a estrutura de uma página ou aplicação web, determinando a separação de layout e conteúdo.",
-      "img": "https://media.giphy.com/media/YTPQs7gqhiQW82kWvk/giphy.gif",
-      "url": "https://www.instagram.com/tv/CCqqEC6JlKw/"
+        "CNAE 2.1": "43999102",
+        "Descrição do Código CNAE 2.0": "Montagem e desmontagem de andaimes e outras estruturas temporárias",
+        "Item da Lista": "03.05",
+        "Descrição do Item da Lista (LC Nº 116/2003)": "Cessão de andaimes, palcos, coberturas e outras estruturas de uso temporário.",
+        "Inciso da LC116/2003": "Art. 3º Inciso II"
     },
     {
-      "id": 2,
-      "title": "Elementos em HTML: guia básico",
-      "description": "São partes de uma página da internet.São objetos identificaveis dentro de um documento HTML, por exemplo: texto, imagem, vídeo etc. É assim que se escreve: <nomedatag atributo=“valor”> </nome da tag> O conteúdo que aparece na tela fica entre as tags de abertura e fechamento Hack: Se você quer escrever algo no seu código e não quer mostrar na tela, basta comentar a linha.Para isso basta selecionar a linha e ctrl + ; (como esse, existem vários outros atalhos pra facilitar nossa vida.)",
-      "img": "https://media.giphy.com/media/xUA7aZzoWnsYTUkSSk/giphy.gif",
-      "url": "https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/HTML_basico"
+        "CNAE 2.1": "43999104",
+        "Descrição do Código CNAE 2.0": "Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras",
+        "Item da Lista": "03.05",
+        "Descrição do Item da Lista (LC Nº 116/2003)": "Cessão de andaimes, palcos, coberturas e outras estruturas de uso temporário.",
+        "Inciso da LC116/2003": "Art. 3º Inciso II"
     },
     {
-      "id": 3,
-      "title": "Como criar a primeira página na web",
-      "description": "Tags são etiquetas que identificam para o navegador quais elementos possuem aquela página na web. Tags de estrutura: !doctype, html, head, body Tags no head: meta (charset), title, link Tags de divisão: div Tags de texto: h1 ao h6, p Tag de link: a Tag de imagem: img",
-      "img": "https://media.giphy.com/media/l3q2FF3o3oRWe5Uqs/giphy.gif",
-      "url": "https://medium.com/reprogramabr/primeira-página-na-web-hello-word-6913a405f50c"
+        "CNAE 2.1": "77332202",
+        "Descrição do Código CNAE 2.0": "Aluguel de andaimes",
+        "Item da Lista": "03.05",
+        "Descrição do Item da Lista (LC Nº 116/2003)": "Cessão de andaimes, palcos, coberturas e outras estruturas de uso temporário.",
+        "Inciso da LC116/2003": "Art. 3º Inciso II"
     },
     {
-      "id": 4,
-      "title": "Como escrever um código organizado",
-      "description": "Para escrever um código com boa semântica é preciso dominar as tags, atributos e criação de valores de atributos. Códigos organizados facilitam a vida de outros programadores de seu time, na hora de fazer manutenção, permitem melhor rankeamento no google, colaboram para o SEO além de deixar seu código acessivel para pessoas com deficiencia visual. Uma diferença entre classe e id é que podem haver várias classes com o mesmo valor, ao passo que ids devem ser únicos.",
-      "img": "https://media.giphy.com/media/9Pxp76VEUxCQO3Vu5w/giphy.gif",
-      "url": "https://medium.com/reprogramabr/organizando-seu-código-o-que-é-método-bem-e-como-utilizá-lo-89f1664af295"
-    }
-  ],
-  "logica": [
-    {
-      "id": 1,
-      "title": "O que é lógica de programação?",
-      "description": "É o planejamento que a gente faz antes de executar uma ação, um cálculo com racionalidade. Em programação toda função, rotina e procedimento devem ser planejados previamente, ou seja, definir tudo que precisa ser feito com raciocinio lógico antes de começar a codar. Estudar lógica de programação te ajuda a buscar sempre a melhor solução para um determinado problema:Solução rápida? Solução Segura? Criar mais de um caminho para o usuário?",
-      "img": "https://media.giphy.com/media/1jl173guBKkbvC03rQ/giphy.gif",
-      "url": "https://www.youtube.com/watch?v=Ds1n6aHchRU"
+        "CNAE 2.1": "77390003",
+        "Descrição do Código CNAE 2.0": "Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes",
+        "Item da Lista": "03.05",
+        "Descrição do Item da Lista (LC Nº 116/2003)": "Cessão de andaimes, palcos, coberturas e outras estruturas de uso temporário.",
+        "Inciso da LC116/2003": "Art. 3º Inciso II"
     },
     {
-      "id": 2,
-      "title": "O que se aprende em lógica?",
-      "description": "Ela te ensina a teoria da programação, então tendo uma boa lógica desenvolvida você consegue aprender qualquer linguagem de programação. Você aprende a criar algoritmos: sequencia ordenada de passos lógicos que ao ser seguida realiza com êxito uma determinada tarefa. Ainda não é a solução, é o caminho para chegar lá. Um programa de computador é exatamente isso: sequencia ordenada de passos lógicos que ao ser seguida realiza com exito uma determinada tarefa",
-      "img": "https://media.giphy.com/media/1AjV8CsyeitOPvbEZH/giphy.gif",
-      "url": "https://becode.com.br/melhor-forma-de-aprender-logica-de-programacao/"
+        "CNAE 2.1": "6550200",
+        "Descrição do Código CNAE 2.0": "Planos de saúde",
+        "Item da Lista": "04.22",
+        "Descrição do Item da Lista (LC Nº 116/2003)": "Planos de medicina de grupo ou individual e convênios para prestação de assistência médica, hospitalar, odontológica e congêneres.",
+        "Inciso da LC116/2003": "Art.3º Inciso XXIII"
     },
     {
-      "id": 3,
-      "title": "Tipos de algoritmos",
-      "description": "Descrição narrativa: usada a linguaguem natural que a gente usa pra se comunicar. Fluxograma ou diagrama: são usadas diferentes formas geométricas para definir - inicio e fim, processamento, entrada de dados, saída de dados e decisão. Pseudo código ou linguagem estruturada: forma mais próxima da linguagem de programação, ele usa blocos, comandos de entradas e saídas, variavéis, constantes, expressões lógicas, relacionais e aritiméticas e outros comandos.",
-      "img": "https://media.giphy.com/media/623IA9JAFc0NWhesWm/giphy.gif",
-      "url": "https://youtu.be/JLlTo3SwxJE"
+        "CNAE 2.1": "6550200",
+        "Descrição do Código CNAE 2.0": "Planos de saúde",
+        "Item da Lista": "04.23",
+        "Descrição do Item da Lista (LC Nº 116/2003)": "Outros planos de saúde que se cumpram através de serviços de terceiros contratados, credenciados, cooperados ou apenas pagos pelo operador do plano mediante indicação do usuário.",
+        "Inciso da LC116/2003": "Art.3º Inciso XXIII"
     },
     {
-      "id": 4,
-      "title": "Fases para criar um algoritmo",
-      "description": "1- definir o problema;  2- verificar formas possíveis; 3- defina a melhor forma de solucionar o problema dentro do contexto atual(regra de negócio); 4- criar o algoritmo; 5- transformar o algoritmo através de uma linguagem; 6- analisar se o problema foi resolvido, caso contrário voltar à etapa inicial e repetir o processo.",
-      "img": "https://media.giphy.com/media/WnNwMk5FVD0DW799kP/giphy.gif",
-      "url": "https://olhardigital.com.br/noticia/conheca-ada-lovelace-a-1-programadora-da-historia/40718"
-    }
-  ],
-  "css": [
-    {
-      "id": 1,
-      "title": "O que é CSS?",
-      "description": "CSS é abreviação de Cascading Style Sheet (folha de estilos em cascata). É a linguagem que define estilos para o HTML, portanto, não se trata de linguagem de programação. CSS tem 'cascata' no nome, devido a sua forma de determinar a propriedade de um elemento - levando em consideração hierarquia de seletores e de chamadas de estilo (inline, internal e external). Para fazer o link de um arquivo .css em um documento .html, devemos inserir a tag no do documento, com o href do caminho do arquivo.",
-      "img": "https://media.giphy.com/media/d2YqoZgbqYLqo/giphy.gif",
-      "url": "https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico"
+        "CNAE 2.1": "6550200",
+        "Descrição do Código CNAE 2.0": "Planos de saúde",
+        "Item da Lista": "05.09",
+        "Descrição do Item da Lista (LC Nº 116/2003)": "Planos de atendimento e assistência médico veterinária.",
+        "Inciso da LC116/2003": "Art.3º Inciso XXIII"
     },
     {
-      "id": 2,
-      "title": "Como inserir estilo aos elementos do HTML?",
-      "description": "seletor {propriedade: valor;} Tipos de seletores e como identificar no css: Class: Use o ponto '.'; Id: Use '#'; Tag: Use apenas o nome da tag",
-      "img": "https://media.giphy.com/media/3o7aCWupfZBk2cReqA/giphy.gif",
-      "url": "https://www.instagram.com/tv/CCqqUABp9vB/"
-    },
-    {
-      "id": 3,
-      "title": "Propriedades de estilo",
-      "description": "Propriedades de background: background-imagem, background-color Propriedades de texto: text-align, font-family, font-size, text-decoration, font-size, text-transfor Propriedades de layout: width, margin, padding, display (flex, block) Propriedade de cor: color Propriedade de decoração: box-shadow, borde",
-      "img": "https://media.giphy.com/media/9PiwPYYPXaEhkm2VCI/giphy.gif",
-      "url": "https://origamid.com/projetos/flexbox-guia-completo/"
-    },
-    {
-      "id": 4,
-      "title": "O que é Flex Container?",
-      "description": "O Flex Container é a tag que envolve os itens flex, ao indicar display: flex, essa tag passa a ser um Flex Container.",
-      "img": "https://media.giphy.com/media/3oz8xuZupCwQf6ejUk/giphy.gif",
-      "url": "https://flexboxfroggy.com"
-    }
-  ]
-}
+        "CNAE 2.1": "2330305",
+        "Descrição do Código CNAE 2.0": "Preparação de massa de concreto e argamassa para construção.",
+        "Item da Lista": "07.02",
+        "Descrição do Item da Lista (LC Nº 116/2003)": "Execução, por administração, empreitada ou subempreitada, de obras de construção civil, hidráulica ou elétrica e de outras obras
