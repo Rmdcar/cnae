@@ -1,1 +1,12 @@
-
+[
+  {
+    "id": 1,
+    "body": "algum comentário",
+    "postId": 1
+  },
+  {
+    "id": 2,
+    "body": "outro comentário",
+    "postId": 1
+  }
+]
